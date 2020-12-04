@@ -1,6 +1,6 @@
 {
   "name": "@rakib/numbertowrod",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "> TODO: description",
   "author": "Md. Rakibul Alam <rakibul.alam@circlefintech.com>",
   "homepage": "https://github.com/rakibulalam/rakib#readme",
@@ -27,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/rakibulalam/rakib/issues"
   },
-  "gitHead": "a2762582d40056dbe0e6c6d833e527495fb9e427"
+  "gitHead": "69a372c6d5a0b6a20f340f6783f0e4d0913aad06"
 }
