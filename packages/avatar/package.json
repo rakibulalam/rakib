@@ -1,11 +1,11 @@
 {
-  "name": "@rakib/numbertowrod",
-  "version": "3.3.2",
+  "name": "@rakib/avatar",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Md. Rakibul Alam <rakibul.alam@circlefintech.com>",
   "homepage": "https://github.com/rakibulalam/rakib#readme",
   "license": "ISC",
-  "main": "lib/numbertoword.js",
+  "main": "lib/avatar.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -14,7 +14,6 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public",
     "registry": "https://registry.npmjs.com/"
   },
   "repository": {
@@ -26,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/rakibulalam/rakib/issues"
-  },
-  "gitHead": "6a43aa99fda767b7f98f1138905e85d2bbdd8f69"
+  }
 }

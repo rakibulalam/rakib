@@ -1,11 +1,11 @@
-# `numbertoword`
+# `@rakib/avatar`
 
 > TODO: description
 
 ## Usage
 
 ```
-const numbertoword = require('numbertoword');
+const avatar = require('@rakib/avatar');
 
 // TODO: DEMONSTRATE API
 ```
