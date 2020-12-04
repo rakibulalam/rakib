@@ -1,5 +1,5 @@
 {
-  "name": "@rakib/avatar",
+  "name": "@rakibulalam/avatar",
   "version": "4.0.0",
   "description": "> TODO: description",
   "author": "Md. Rakibul Alam <rakibul.alam@circlefintech.com>",
@@ -27,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/rakibulalam/rakib/issues"
   },
-  "gitHead": "a0cba41bf836839d49076a3591494f3582aa001d"
+  "gitHead": "126a956a81c516fc719b1b7b693d4adb936680f1"
 }
