@@ -14,8 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -27,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/rakibulalam/rakib/issues"
   },
-  "gitHead": "639676ca09a250a2f0d9dd25869ac5ced82e8595"
+  "gitHead": "b2aed89e1e1e6f77c7c51224c59de54849930020"
 }
