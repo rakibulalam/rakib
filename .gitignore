@@ -20,7 +20,6 @@ build/
 coverage/
 dist/
 esm/
-lib/
 node_modules/
 tmp/
 
