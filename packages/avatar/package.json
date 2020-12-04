@@ -1,6 +1,6 @@
 {
   "name": "@rakib/avatar",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "> TODO: description",
   "author": "Md. Rakibul Alam <rakibul.alam@circlefintech.com>",
   "homepage": "https://github.com/rakibulalam/rakib#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/rakibulalam/rakib/issues"
   },
-  "gitHead": "b2aed89e1e1e6f77c7c51224c59de54849930020"
+  "gitHead": "c266c6808fd9449abca96035b5e7669e4391a077"
 }
