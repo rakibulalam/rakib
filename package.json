@@ -1,6 +1,6 @@
 {
   "name": "@rakib/root",
-  "private": true,
+  "private": false,
   "workspaces": [
     "./packages/*"
   ],
