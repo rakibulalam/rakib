@@ -2,7 +2,7 @@
   "name": "@rakib/root",
   "private": false,
   "workspaces": [
-    "./packages/*"
+    "packages/*"
   ],
   "devDependencies": {
     "lerna": "^3.22.1"
