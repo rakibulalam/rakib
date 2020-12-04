@@ -1,0 +1,29 @@
+{
+  "name": "@rakib/numbertowrod",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Md. Rakibul Alam <rakibul.alam@circlefintech.com>",
+  "homepage": "https://github.com/rakibulalam/rakib#readme",
+  "license": "ISC",
+  "main": "lib/numbertoword.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakibulalam/rakib.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/rakibulalam/rakib/issues"
+  }
+}
